@@ -1,0 +1,101 @@
+body{
+    font-family: 'Anton', sans-serif;
+    margin:0px;
+    }
+
+h1{
+   font-size:80px;
+  }
+h2{
+    font-size:50px;
+    text-align:center
+  }
+
+h4{
+   font-size:20px;
+
+ }
+
+ .high-light{
+             color:rgb(21, 209, 77);
+
+            }
+a.link-make:link{
+                 background-color:rgb(21, 209, 77) ;
+                 color:white;
+                 padding:18px 25px;
+                 text-decoration:none;
+                 text-align:center;
+                 }
+ a.link-make:hover{
+                 background-color:rgb(245, 41, 41);
+                 color:white;
+                 padding:18px 25px;
+                 text-decoration:none;
+                 text-align:center;
+                  }
+.half-width{
+            width:40%;
+            margin-left:5%;
+            padding-right:2%;
+            float:left;
+            height:60%;
+
+            }
+.half-width img{
+               width:100%;
+               }
+
+/*----worksection---*/
+
+.work-highlight{
+                color:red;
+                font-size:60px;
+                text-align:center;
+                margin-top:5px;
+               }
+.work-section{
+              clear:both;
+              background-color:#78e08f;
+             }
+.three-in-one{
+              widows:25%;
+              display:inline;
+              }
+.three-in-one img{
+                 width:30%;
+                 margin:10px;
+                 padding:20px;
+                 }
+
+    /*inquery section--*/
+
+.inquery img{
+         
+         width:60%;
+         display:block;
+         margin-left:auto;
+         margin-right:auto;
+         margin-top:60px;
+         
+        }
+ /*footer-section-*/
+
+
+ .last-section{
+              background-color: black;
+              margin-top:20px;
+
+              }
+ .contact-section{
+                  color:white;
+                  font-size:26px;
+                  font-weight:bold;
+                  margin-left:25px;
+                  
+                  }
+    .footer-h2{
+              color:white;
+              font-size:40px;
+              text-align:center:
+              } 
